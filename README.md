@@ -10,4 +10,6 @@ Then the Senegalese start explaining that the Jolof rice in fact originate from 
 
 They start arguing and the south African go like: "Well, if the Jollof rice comes from Senegal and the Nigerian copied it and adapted it then it must be open source!"
 
+![alt tag](https://raw.githubusercontent.com/diopib/jollof_rice/master/jollof.jpg)
+
 
