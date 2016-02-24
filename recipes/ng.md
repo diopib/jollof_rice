@@ -1,6 +1,6 @@
-# OPEN SOURCE JOLLOF (THE NIGERIAN RECIPIE)
+## OPEN SOURCE JOLLOF (THE NIGERIAN RECIPE)
 
-## INGREDIENTS
+### INGREDIENTS
 
 - 2 cups of precooked long grain rice
 - 5 Tablesppnful tomato paste
@@ -14,7 +14,7 @@
 - 1 stock maggi cube
 - Water as needed
 
-## STEPS
+### STEPS
 
 - First prepare a small stew or sauch by blending the fresh tomatoes and pepper then dryout excess liquid.
 - Place a pot on heat, add some oil, chopped onions and fry a bit. Then add the tomatoes sauce from earlier and stir to 
