@@ -14,6 +14,12 @@ An argument ensued which got the South African interested:
 
 Said the South African.
 
-![alt tag](https://raw.githubusercontent.com/diopib/jollof_rice/master/jollof.jpg)
+Nigerian Jollof:
+
+![alt tag](https://raw.githubusercontent.com/diopib/jollof_rice/master/jollof_ng.jpg)
+
+Senegalese Jollof ("Chebujen"):
+
+![alt tag](https://raw.githubusercontent.com/diopib/jollof_rice/master/jollof_sn.jpg)
 
 
