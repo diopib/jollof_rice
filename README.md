@@ -23,3 +23,4 @@ Senegalese Jollof ("Chebujen"):
 ![SN](https://github.com/diopib/jollof_rice/blob/master/jollof_sn.png)
 
 
+Now this: https://twitter.com/IshaSesayCNN/status/942305182527905793
