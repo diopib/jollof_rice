@@ -16,10 +16,10 @@ Said the South African.
 
 Nigerian Jollof:
 
-![alt tag](https://raw.githubusercontent.com/diopib/jollof_rice/master/jollof_ng.jpg)
+![NG](https://raw.githubusercontent.com/diopib/jollof_rice/master/jollof_ng.jpg)
 
 Senegalese Jollof ("Chebujen"):
 
-![alt tag](https://raw.githubusercontent.com/diopib/jollof_rice/master/jollof_sn.jpg)
+![SN](https://github.com/diopib/jollof_rice/blob/master/jollof_sn.png)
 
 
