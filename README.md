@@ -16,7 +16,7 @@ Said the South African.
 
 Nigerian Jollof:
 
-![NG](https://raw.githubusercontent.com/diopib/jollof_rice/master/jollof_ng.jpg)
+![NG](https://raw.githubusercontent.com/shante66/jollof_rice/master/jollof_ng.jpg)
 
 Senegalese Jollof ("Chebujen"):
 
